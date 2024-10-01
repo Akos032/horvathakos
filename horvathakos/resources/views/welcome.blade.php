@@ -27,6 +27,9 @@
         <li class="nav-item">
           <a class="nav-link" href="felhasznalo">Felhasználo</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="urlap">Űrlap</a>
+        </li>
     </div>
   </div>
 </nav>
