@@ -30,6 +30,9 @@
         <li class="nav-item">
           <a class="nav-link" href="urlap">Űrlap</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="gyakorlas">gyakorlas</a>
+        </li>
     </div>
   </div>
 </nav>
